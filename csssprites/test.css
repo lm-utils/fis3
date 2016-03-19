@@ -1,0 +1,9 @@
+
+li{width: 200px;height: 200px;}
+li.list-1::before {
+    background-image: url('./list-1.png?__sprite');
+}
+
+li.list-2::before {
+    background-image: url('./list-2.png?__sprite');
+}
